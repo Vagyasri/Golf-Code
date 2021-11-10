@@ -27,4 +27,6 @@ const golfScore = (par, strokes) => {
   return 'Change Me';
 };
 
-golfScore(5, 4);
+console.log(golfScore(5, 4));
+console.log(golfScore(7, 9));
+console.log(golfScore(15, 4));
